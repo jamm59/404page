@@ -19,6 +19,7 @@
     margin-bottom: 2%;
 }
 .main > div > p {
+    color:#787A91;
     font-weight: bold;
     width: 240px;
     line-height: 1.1;
@@ -27,7 +28,7 @@
 }
 .main > .btn {
     padding: 1rem 1.5rem;
-    color:black;
+    color:#787A91;
     background: #FEFBF3;
     border-radius: 10px;
 }
