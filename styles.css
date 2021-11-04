@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300&family=Sigmar+One&display=swap');
+* {
+    margin:0;
+    padding:0;
+}
+.main {
+    background:linear-gradient(#D4ECDD,#FEF1E6);
+    color:white;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    text-align: center;
+}
+.main > h1 {
+    font-family: 'Sigmar One', cursive;
+    font-size: 10rem;
+    margin-bottom: 2%;
+}
+.main > div > p {
+    font-weight: bold;
+    width: 240px;
+    line-height: 1.1;
+    font-size: 1.2rem;
+    margin-bottom: 15%;
+}
+.main > .btn {
+    padding: 1rem 1.5rem;
+    color:black;
+    background: #FEFBF3;
+    border-radius: 10px;
+}
